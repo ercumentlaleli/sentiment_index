@@ -1,1 +1,2 @@
-# sentiment_index
+#Central Bank Sentiment Index
+based on BERT
